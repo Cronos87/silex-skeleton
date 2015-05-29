@@ -1,4 +1,9 @@
 {
+    "name": "Cronos87/silex-skeleton",
+    "description": " Another personal Silex Skeleton.",
+    "keywords": ["framework", "silex", "skeleton"],
+    "license": "MIT",
+    "type": "project",
     "require": {
         "silex/silex": "~1.2",
         "twig/twig": "~1.18",
