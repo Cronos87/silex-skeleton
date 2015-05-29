@@ -1,7 +1,8 @@
 {
-    "name": "Cronos87/silex-skeleton",
+    "name": "cronos87/silex-skeleton",
     "description": " Another personal Silex Skeleton.",
     "keywords": ["framework", "silex", "skeleton"],
+    "homepage": "http://github.com/Cronos87/silex-skeleton",
     "license": "MIT",
     "type": "project",
     "require": {
